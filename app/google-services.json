@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602802763954",
+    "firebase_url": "https://geneticalgogeneral.firebaseio.com",
+    "project_id": "geneticalgogeneral",
+    "storage_bucket": "geneticalgogeneral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602802763954:android:235ca4ff14e68800",
+        "android_client_info": {
+          "package_name": "e.gym.geneticalgogeneral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602802763954-ifpib0kdvfsfei2ebpsg6936opoj0332.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.gym.geneticalgogeneral",
+            "certificate_hash": "42a7e00e8f66f01cb7b3ac97d4932c3113c14b84"
+          }
+        },
+        {
+          "client_id": "602802763954-9i398to4aehgoho3ta2l4pp37gmde594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2-WynQ6imR32fVTPDxuqrmspVmQYn9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602802763954-9i398to4aehgoho3ta2l4pp37gmde594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
